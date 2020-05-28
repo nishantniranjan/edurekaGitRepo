@@ -1,4 +1,5 @@
 public class Person{
-	int age =42;
+	int[] age =Arrays.asList(42,40);
+
 }
 
